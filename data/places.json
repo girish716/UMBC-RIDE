@@ -1,0 +1,150 @@
+[
+  {
+    "area_name": {
+      "en": "Baltimore Harbor",
+      "bn": "উত্তরা মডেল টাউন (১ হতে ১০ নাম্বার সেক্টর)"
+    },
+    "city_corporation": "Dhaka North City Corporation",
+    "city_corp_tag": "DNCC",
+    "ward": "1",
+    "id": "e004c2f-f817-6e40-2f07-d05e2ae62a"
+  },
+  {
+    "area_name": {
+      "en": "Inner Harbor",
+      "bn": "আব্দুল্লাহপুর"
+    },
+    "city_corporation": "Dhaka North City Corporation",
+    "city_corp_tag": "DNCC",
+    "ward": "1",
+    "id": "42c5c38-40ab-32ae-1c65-ffa4e10b6df0"
+  },
+  {
+    "area_name": {
+      "en": "Fells Point",
+      "bn": "পুরাকরৈ"
+    },
+    "city_corporation": "Dhaka North City Corporation",
+    "city_corp_tag": "DNCC",
+    "ward": "1",
+    "id": "ae811ea-dbfd-6d60-84fc-ef8045ae07e"
+  },
+  {
+    "area_name": {
+      "en": "Federal Hill",
+      "bn": "শৈলপুর"
+    },
+    "city_corporation": "Dhaka North City Corporation",
+    "city_corp_tag": "DNCC",
+    "ward": "1",
+    "id": "40076a-8fd-7848-a21-183df6a3a22"
+  },
+  {
+    "area_name": {
+      "en": "Canton",
+      "bn": "ফায়দাবাদ"
+    },
+    "city_corporation": "Dhaka North City Corporation",
+    "city_corp_tag": "DNCC",
+    "ward": "1",
+    "id": "1fb1c42-2e5b-a61-be67-40724d1a217"
+  },
+  {
+    "area_name": {
+      "en": "Hampden",
+      "bn": "বাউনিয়া"
+    },
+    "city_corporation": "Dhaka North City Corporation",
+    "city_corp_tag": "DNCC",
+    "ward": "1",
+    "id": "e46ddad-182d-ecf7-e482-a02bfb5564fa"
+  },
+  {
+    "area_name": {
+      "en": "Mount Vernon",
+      "bn": "দক্ষিণ খান"
+    },
+    "city_corporation": "Dhaka North City Corporation",
+    "city_corp_tag": "DNCC",
+    "ward": "1",
+    "id": "f4020b-c0d-fc85-60d0-a8f70c73881"
+  },
+  {
+    "area_name": {
+      "en": "Pigtown",
+      "bn": "রানাভোলা"
+    },
+    "city_corporation": "Dhaka North City Corporation",
+    "city_corp_tag": "DNCC",
+    "ward": "1",
+    "id": "e67afe-675c-2e0c-3cc8-23ee62711e1"
+  },
+  {
+    "area_name": {
+      "en": "Patterson Park",
+      "bn": "মিরপুর ১২"
+    },
+    "city_corporation": "Dhaka North City Corporation",
+    "city_corp_tag": "DNCC",
+    "ward": "2",
+    "id": "24bc281-847-ffc-c407-c76a5d87c4a"
+  },
+  {
+    "area_name": {
+      "en": "Highlandtown",
+      "bn": "মিরপুর ৯"
+    },
+    "city_corporation": "Dhaka North City Corporation",
+    "city_corp_tag": "DNCC",
+    "ward": "2",
+    "id": "daf475-f574-b580-e843-c06f4600587"
+  },
+  {
+    "area_name": {
+      "en": "Roland Park",
+      "bn": "বুড়ির টেক"
+    },
+    "city_corporation": "Dhaka North City Corporation",
+    "city_corp_tag": "DNCC",
+    "ward": "2",
+    "id": "d6602fa-03e5-1310-ade7-74f8e1e6b81c"
+  },
+  {
+    "area_name": {
+      "en": "Mount Washington",
+      "bn": "কালশী সরকার বাড়ী"
+    },
+    "city_corporation": "Dhaka North City Corporation",
+    "city_corp_tag": "DNCC",
+    "ward": "2",
+    "id": "7d47a16-f3b4-d0e0-22dc-cebd18614c"
+  },
+  {
+    "area_name": {
+      "en": "Remington",
+      "bn": "সাগুফতা"
+    },
+    "city_corporation": "Dhaka North City Corporation",
+    "city_corp_tag": "DNCC",
+    "ward": "2",
+    "id": "322f66b-60c5-84ba-42c3-a6bd876bb2e7"
+  },
+  {
+    "area_name": {
+      "en": "Charles Village",
+      "bn": "মিরপুর ১০"
+    },
+    "city_corporation": "Dhaka North City Corporation",
+    "city_corp_tag": "DNCC",
+    "ward": "3",
+    "id": "af112-3e51-dbcf-750e-e40b64fff2e"
+  },
+  {
+    "area_name": {
+      "en": "Hampden",
+      "bn": "মিরপুর ১১"
+    },
+    "city_corporation": "Dhaka North City Corporation",
+    "city_corp_tag": "DNCC",
+    "ward": "3",
+    "id": "d4f13d3-7a5e-d6b6-bshgdjfdjfgfgf"}]
